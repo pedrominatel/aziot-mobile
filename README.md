@@ -1,2 +1,3 @@
-# eziot-mobile
-aziot mobile
+# EzIoT Mobile User Interface
+
+Under development
